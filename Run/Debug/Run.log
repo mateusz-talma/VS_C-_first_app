@@ -1,0 +1,113 @@
+﻿Build started 2015-06-08 22:13:40.
+     1>Project "C:\Users\Mati\Documents\Visual Studio 2013\Projects\Run\Run\Run.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Programy\Microsoft Visual Studio 2013 Ultimate\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Buty.cpp Dodanie.cpp MyForm.cpp Statystyki.cpp
+         Buty.cpp
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Dodanie.h(583): warning C4101: 'temp' : unreferenced local variable
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Dodanie.h(684): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Dodanie.h(679): warning C4101: 'linia' : unreferenced local variable
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Ustawienia.h(464): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(491): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(492): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(535): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(523) : definition of 'i' ignored
+                 c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(516) : definition of 'i' used
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(538): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(574): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(575): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(576): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(599): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(600): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(601): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Statystyki.h(463): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Statystyki.h(482): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(537): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(538): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(539): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(558): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(559): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(602): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(603): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(604): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+         Dodanie.cpp
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Dodanie.h(583): warning C4101: 'temp' : unreferenced local variable
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Dodanie.h(684): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Dodanie.h(679): warning C4101: 'linia' : unreferenced local variable
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Ustawienia.h(464): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(491): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(492): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(535): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(523) : definition of 'i' ignored
+                 c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(516) : definition of 'i' used
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(538): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(574): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(575): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(576): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(599): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(600): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(601): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Statystyki.h(463): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Statystyki.h(482): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(537): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(538): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(539): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(558): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(559): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(602): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(603): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(604): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+         MyForm.cpp
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Dodanie.h(583): warning C4101: 'temp' : unreferenced local variable
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Dodanie.h(684): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Dodanie.h(679): warning C4101: 'linia' : unreferenced local variable
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Ustawienia.h(464): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(491): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(492): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(535): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(523) : definition of 'i' ignored
+                 c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(516) : definition of 'i' used
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(538): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(574): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(575): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(576): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(599): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(600): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Historia.h(601): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Statystyki.h(463): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Statystyki.h(482): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(537): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(538): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(539): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(558): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(559): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(602): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(603): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Kalkulator.h(604): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>MyForm.cpp(18): warning C4551: function call missing argument list
+         Statystyki.cpp
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Statystyki.h(463): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\Statystyki.h(482): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+         Generating Code...
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\myform.h(518): warning C4715: 'Run::MyForm::dzien_tygodnia' : not all control paths return a value
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\historia.h(543): warning C4715: 'Run::Historia::tetno' : not all control paths return a value
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\myform.h(518): warning C4715: 'Run::MyForm::dzien_tygodnia' : not all control paths return a value
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\historia.h(543): warning C4715: 'Run::Historia::tetno' : not all control paths return a value
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\myform.h(518): warning C4715: 'Run::MyForm::dzien_tygodnia' : not all control paths return a value
+     1>c:\users\mati\documents\visual studio 2013\projects\run\run\historia.h(543): warning C4715: 'Run::Historia::tetno' : not all control paths return a value
+       Link:
+         D:\Programy\Microsoft Visual Studio 2013 Ultimate\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mati\Documents\Visual Studio 2013\Projects\Run\Debug\Run.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Run.Buty.resources /ASSEMBLYRESOURCE:Debug\Run.Cele.resources /ASSEMBLYRESOURCE:Debug\Run.Dodanie.resources /ASSEMBLYRESOURCE:Debug\Run.Historia.resources /ASSEMBLYRESOURCE:Debug\Run.Kalkulator.resources /ASSEMBLYRESOURCE:Debug\Run.MyForm.resources /ASSEMBLYRESOURCE:Debug\Run.Nowy_cel.resources /ASSEMBLYRESOURCE:Debug\Run.Statystyki.resources /ASSEMBLYRESOURCE:Debug\Run.Ustawienia.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Mati\Documents\Visual Studio 2013\Projects\Run\Debug\Run.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Buty.obj
+         Debug\Cele.obj
+         Debug\Dodanie.obj
+         Debug\Historia.obj
+         Debug\Kalkulator.obj
+         Debug\MyForm.obj
+         Debug\Nowy_cel.obj
+         Debug\Statystyki.obj
+         Debug\Ustawienia.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Run.vcxproj -> C:\Users\Mati\Documents\Visual Studio 2013\Projects\Run\Debug\Run.exe
+     1>Done Building Project "C:\Users\Mati\Documents\Visual Studio 2013\Projects\Run\Run\Run.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.93

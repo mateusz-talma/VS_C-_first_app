@@ -1,0 +1,8 @@
+Ilosc treningow
+2
+2015-06-03
+2015-06-30
+Ilosc treningow
+5
+2015-06-01
+2015-06-08
